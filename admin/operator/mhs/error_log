@@ -1,0 +1,10 @@
+[24-May-2015 03:13:35 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user 'skyknight'@'localhost' (using password: NO) in /home/stekomin/public_html/ujian/admin/operator/mhs/proses_simpan_mhs.php on line 3
+[24-May-2015 03:13:35 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/stekomin/public_html/ujian/admin/operator/mhs/proses_simpan_mhs.php on line 3
+[24-May-2015 03:13:35 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user 'skyknight'@'localhost' (using password: NO) in /home/stekomin/public_html/ujian/admin/operator/mhs/proses_simpan_mhs.php on line 4
+[24-May-2015 03:13:35 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/stekomin/public_html/ujian/admin/operator/mhs/proses_simpan_mhs.php on line 4
+[24-May-2015 03:13:35 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user 'skyknight'@'localhost' (using password: NO) in /home/stekomin/public_html/ujian/admin/operator/mhs/proses_simpan_mhs.php on line 5
+[24-May-2015 03:13:35 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/stekomin/public_html/ujian/admin/operator/mhs/proses_simpan_mhs.php on line 5
+[24-May-2015 03:13:35 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user 'skyknight'@'localhost' (using password: NO) in /home/stekomin/public_html/ujian/admin/operator/mhs/proses_simpan_mhs.php on line 6
+[24-May-2015 03:13:35 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/stekomin/public_html/ujian/admin/operator/mhs/proses_simpan_mhs.php on line 6
+[24-May-2015 03:13:35 UTC] PHP Warning:  mysql_real_escape_string(): Access denied for user 'skyknight'@'localhost' (using password: NO) in /home/stekomin/public_html/ujian/admin/operator/mhs/proses_simpan_mhs.php on line 7
+[24-May-2015 03:13:35 UTC] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/stekomin/public_html/ujian/admin/operator/mhs/proses_simpan_mhs.php on line 7

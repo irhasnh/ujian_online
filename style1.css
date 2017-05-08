@@ -1,0 +1,117 @@
+@charset "utf-8";
+/* CSS Document */
+body,td,th {
+	font-family: Arial, 'Helvetica', sans-serif;
+	font-size: 14px;
+	margin: 0;
+	background: #f6f6f6;
+}
+.header{
+	background: #3a5795;
+	height:50px;
+	position:fixed;
+	width:100%;
+	top:0;
+	
+}
+	.header .main1{
+		max-width: 780px;
+		margin: auto;
+		overflow:hidden;
+		padding: 10px;
+		
+	}
+		.header .main1 .logo{
+			color: #fff;
+			font-size: 16px;
+			font-weight: bold;
+			float:left;
+			width:280px;	
+			margin-right:20px;	
+		}
+		
+		.header .main1 .navbar{
+	float: left;
+	color: #FFF;
+	width: 470px;
+	text-align: right;
+	font-weight: bold;		
+		}
+		.header .main1 .navbar a{
+			color:#FFF;
+			text-decoration:none;
+		}
+		.header .main1 .navbar a:link{
+			color:#FFF;
+			text-decoration:none;
+		}
+		.header .main1 .navbar a:hover{
+			color:#CCC;
+			text-decoration:none;
+		}
+		.header .main1 .navbar a:visited{
+			
+			
+		}
+		.header .main1 .navbar a:active{
+			color:#FFF;
+			text-decoration:none;
+		}
+
+.main{
+	max-width: 780px;
+	margin-top:120px;
+	margin-left:auto;
+	margin-right:auto;
+	margin-bottom:10px;
+	overflow:hidden;
+	padding: 10px;
+	border: 1px solid #dedede;	
+	background:#FFF;
+}
+
+.footer{
+		max-width: 780px;
+		margin: auto;
+		overflow:hidden;
+		padding: 10px;
+		color: #ccc;
+}
+@media screen and (max-width:1080px){
+	.header .main1 .navbar{
+		float:right;
+		width: auto;
+		
+	}
+	.header .main1 .logo{
+		width:auto;
+	}
+	.main{
+		width: 90%;
+	}
+	.header .main1{
+		width: 90%;		
+	}
+}
+
+@media screen and (max-width:320px){
+	.header .main1 .navbar{
+		float:none;
+                
+		width: auto;
+		text-align:left;
+		}
+	.header .main1 .logo{
+		width:auto;
+		float:none;	
+		
+	}
+	.main{
+		width: 90%;	
+		
+	}
+	.header .main1{
+		width: 90%;	
+			
+	}
+}
